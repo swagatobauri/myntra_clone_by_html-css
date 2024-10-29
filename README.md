@@ -1,3 +1,4 @@
+mintracloneswagatobauri-36a91a.netlify.app
 # myntra_clone_by_html-css
 
 # Myntra Clone
